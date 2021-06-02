@@ -1,3 +1,5 @@
 # Real-Time-Chat-Application
-  <img src="img/1.jpg" width="500" title="hover text">
-  <img src="img/2.jpg" width="500" alt="accessibility text">
+<img src="img/sign.jpg" width="600" title="hover text">
+<img src="img/join.jpg" width="600" title="hover text">
+  <img src="img/1.jpg" width="600" title="hover text">
+  <img src="img/2.jpg" width="600" alt="accessibility text">
